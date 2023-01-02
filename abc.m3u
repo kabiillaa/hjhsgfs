@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="FLIXHUB", F TEN SPORTS
+#EXTINF:-1 group-title="FLIXHUB", LIMON 1
 http://live.flixhub.net/hls/ten.m3u8
 #EXTINF:-1 group-title="FLIXHUB", F BEIN 1
 http://live.flixhub.net/hls/bein1.m3u8
