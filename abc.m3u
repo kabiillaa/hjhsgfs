@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="FLIXHUB", F BEIN 1
+#EXTINF:-1 group-title="FLIXHUB", F Sports 18 SAT20
 http://live.flixhub.net/hls/bein1.m3u8
+#EXTINF:-1 group-title="FLIXHUB", F & PICTURES ILT20
+http://live.flixhub.net/hls/andpictures.m3u8
+#EXTINF:-1 group-title="FLIXHUB", F NAGORIK BPL
+http://live.flixhub.net/hls/nagoriktv.m3u8
 #EXTINF:-1 group-title="FLIXHUB", F GTV
 http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 group-title="FLIXHUB", F SONY SP 1
@@ -87,8 +91,6 @@ http://live.flixhub.net/hls/zeecinemahd.m3u8
 http://live.flixhub.net/hls/colorscineplex.m3u8
 #EXTINF:-1 group-title="FLIXHUB", F UTV MOVIES
 http://live.flixhub.net/hls/utv.m3u8
-#EXTINF:-1 group-title="FLIXHUB", F & PICTURES
-http://live.flixhub.net/hls/andpictures.m3u8
 #EXTINF:-1 group-title="FLIXHUB", F MAX
 http://live.flixhub.net/hls/sony-maxhd.m3u8
 #EXTINF:-1 group-title="FLIXHUB", F MBC
@@ -129,8 +131,6 @@ http://live.flixhub.net/hls/jamuna.m3u8
 http://live.flixhub.net/hls/madani.m3u8
 #EXTINF:-1 group-title="FLIXHUB", F QURAN TV
 http://live.flixhub.net/hls/qurqntv.m3u8
-#EXTINF:-1 group-title="FLIXHUB", F NAGORIK
-http://live.flixhub.net/hls/nagoriktv.m3u8
 #EXTINF:-1 group-title="FLIXHUB", F BANGLAVISION
 http://live.flixhub.net/hls/banglavision.m3u8
 #EXTINF:-1 group-title="FLIXHUB", F ATN BANGLA
