@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Server-1", F Sports 18 SAT20
+#EXTINF:-1 group-title="Server-1", F Sports 18
 http://172.16.215.142/hls/bein1.m3u8
-#EXTINF:-1 group-title="Server-1", F & PICTURES ILT20
+#EXTINF:-1 group-title="Server-1", F & PICTURES
 http://172.16.215.142/hls/andpictures.m3u8
-#EXTINF:-1 group-title="Server-1", F NAGORIK BPL
+#EXTINF:-1 group-title="Server-1", F NAGORIK
 http://172.16.215.142/hls/nagoriktv.m3u8
 #EXTINF:-1 group-title="Server-1", F GTV
 http://172.16.215.142/hls/Gazi-TV.m3u8
