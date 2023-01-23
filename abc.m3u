@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Server-1", F Sports 18 SA
+#EXTINF:-1 group-title="Server-1", F Sports 18 SA T20
 http://172.16.215.142/hls/bein1.m3u8
 #EXTINF:-1 group-title="Server-1", F & PICTURES
 http://172.16.215.142/hls/andpictures.m3u8
