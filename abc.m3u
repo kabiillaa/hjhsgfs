@@ -1,0 +1,324 @@
+#EXTM3U
+#EXTINF:-1 group-title="Server-1", F Sports 18 ABCD
+http://172.16.215.142/hls/bein1.m3u8
+#EXTINF:-1 group-title="Server-1", F & PICTURES
+http://172.16.215.142/hls/andpictures.m3u8
+#EXTINF:-1 group-title="Server-1", F NAGORIK
+http://172.16.215.142/hls/nagoriktv.m3u8
+#EXTINF:-1 group-title="Server-1", F GTV
+http://172.16.215.142/hls/Gazi-TV.m3u8
+#EXTINF:-1 group-title="Server-1", F SONY SP 1
+http://172.16.215.142/hls/sonyten1.m3u8
+#EXTINF:-1 group-title="Server-1", F SONY SP 2
+http://172.16.215.142/hls/sonyten2.m3u8
+#EXTINF:-1 group-title="Server-1", F SONY SP 3
+http://172.16.215.142/hls/sonyten3.m3u8
+#EXTINF:-1 group-title="Server-1", F SONY SP 5
+http://172.16.215.142/hls/sonysix.m3u8
+#EXTINF:-1 group-title="Server-1", F STAR SP 1
+http://172.16.215.142/hls/stersports1hd.m3u8
+#EXTINF:-1 group-title="Server-1", F STAR SP 2
+http://172.16.215.142/hls/starsports2.m3u8
+#EXTINF:-1 group-title="Server-1", F STAR SP 3
+http://172.16.215.142/hls/starsports3.m3u8
+#EXTINF:-1 group-title="Server-1", F STAR SP SELECT 1
+http://172.16.215.142/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 group-title="Server-1", F STAR SP SELECT 2
+http://172.16.215.142/hls/select2.m3u8
+#EXTINF:-1 group-title="Server-1", F T SPORTS
+http://172.16.215.142/hls/t-sports.m3u8
+#EXTINF:-1 group-title="Server-1", F ZOOM
+http://172.16.215.142/hls/zoom.m3u8
+#EXTINF:-1 group-title="Server-1", F BINDASS
+http://172.16.215.142/hls/bindass.m3u8
+#EXTINF:-1 group-title="Server-1", F 9XM
+http://172.16.215.142/hls/9xm.m3u8
+#EXTINF:-1 group-title="Server-1", F MASTI
+http://172.16.215.142/hls/masti.m3u8
+#EXTINF:-1 group-title="Server-1", F GAAN BANGLA
+http://172.16.215.142/hls/gb.m3u8
+#EXTINF:-1 group-title="Server-1", F BHOJPURI
+http://172.16.215.142/hls/bhojpuri.m3u8
+#EXTINF:-1 group-title="Server-1", F COLORS BANGLA
+http://172.16.215.142/hls/colorsbangla.m3u8
+#EXTINF:-1 group-title="Server-1", F STAR JALSHA
+http://172.16.215.142/hls/starjalsha.m3u8
+#EXTINF:-1 group-title="Server-1", F ZEE BANGLA
+http://172.16.215.142/hls/zeebanglahd.m3u8
+#EXTINF:-1 group-title="Server-1", F SUN BANGLA
+http://172.16.215.142/hls/sunbangla.m3u8
+#EXTINF:-1 group-title="Server-1", F SONY AATH
+http://172.16.215.142/hls/Sony_Aath.m3u8
+#EXTINF:-1 group-title="Server-1", F JALSHA MOVIES
+http://172.16.215.142/hls/jalshamovies.m3u8
+#EXTINF:-1 group-title="Server-1", F COLORS BANGLA CINEMA
+http://172.16.215.142/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 group-title="Server-1", F ZEE BANGLA CINEMA
+http://172.16.215.142/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 group-title="Server-1", F SANGEET BANGLA
+http://172.16.215.142/hls/sangeetbangla.m3u8
+#EXTINF:-1 group-title="Server-1", F AKASH AATH
+http://172.16.215.142/hls/akash.m3u8
+#EXTINF:-1 group-title="Server-1", F ENTERR 10
+http://172.16.215.142/hls/enterr10.m3u8
+#EXTINF:-1 group-title="Server-1", F STAR BANGLA
+http://172.16.215.142/hls/khushboo.m3u8
+#EXTINF:-1 group-title="Server-1", F SONY YAY
+http://172.16.215.142/hls/dis-kid.m3u8
+#EXTINF:-1 group-title="Server-1", F NICK
+http://172.16.215.142/hls/nick.m3u8
+#EXTINF:-1 group-title="Server-1", F CARTOON NETWORK
+http://172.16.215.142/hls/cn.m3u8
+#EXTINF:-1 group-title="Server-1", F DURANTO
+http://172.16.215.142/hls/duranta.m3u8
+#EXTINF:-1 group-title="Server-1", F POGO
+http://172.16.215.142/hls/pogo.m3u8
+#EXTINF:-1 group-title="Server-1", F SONY EN
+http://172.16.215.142/hls/sonyen.m3u8
+#EXTINF:-1 group-title="Server-1", F STAR PLUS
+http://172.16.215.142/hls/starplus.m3u8
+#EXTINF:-1 group-title="Server-1", F ZEE TV
+http://172.16.215.142/hls/zeetv.m3u8
+#EXTINF:-1 group-title="Server-1", F COLORS
+http://172.16.215.142/hls/colore-tv-hd.m3u8
+#EXTINF:-1 group-title="Server-1", F STAR GOLD
+http://172.16.215.142/hls/stargold.m3u8
+#EXTINF:-1 group-title="Server-1", F STAR GOLD 2
+http://172.16.215.142/hls/stargold2hd.m3u8
+#EXTINF:-1 group-title="Server-1", F ZEE CINEMA
+http://172.16.215.142/hls/zeecinemahd.m3u8
+#EXTINF:-1 group-title="Server-1", F COLORS CINEPLEX
+http://172.16.215.142/hls/colorscineplex.m3u8
+#EXTINF:-1 group-title="Server-1", F UTV MOVIES
+http://172.16.215.142/hls/utv.m3u8
+#EXTINF:-1 group-title="Server-1", F MAX
+http://172.16.215.142/hls/sony-maxhd.m3u8
+#EXTINF:-1 group-title="Server-1", F MBC
+http://172.16.215.142/hls/mbc.m3u8
+#EXTINF:-1 group-title="Server-1", F DHINCHAK 2
+http://172.16.215.142/hls/dhin.m3u8
+#EXTINF:-1 group-title="Server-1", F UTV ACTION
+http://172.16.215.142/hls/utvaction.m3u8
+#EXTINF:-1 group-title="Server-1", F PIX HD
+http://172.16.215.142/hls/sonypixhd.m3u8
+#EXTINF:-1 group-title="Server-1", F MOVIES NOW
+http://172.16.215.142/hls/movies-now.m3u8
+#EXTINF:-1 group-title="Server-1", F STAR MOVIES
+http://172.16.215.142/hls/starmovies.m3u8
+#EXTINF:-1 group-title="Server-1", F MN+
+http://172.16.215.142/hls/mn+.m3u8
+#EXTINF:-1 group-title="Server-1", F MNX HD
+http://172.16.215.142/hls/mnx-hd.m3u8
+#EXTINF:-1 group-title="Server-1", F AXN HD
+http://172.16.215.142/hls/axn.m3u8
+#EXTINF:-1 group-title="Server-1", F STAR WORLD
+http://172.16.215.142/hls/star-worldhd.m3u8
+#EXTINF:-1 group-title="Server-1", F LOTUS MACAU
+http://172.16.215.142/hls/lotus.m3u8
+#EXTINF:-1 group-title="Server-1", F INDEPENDENT
+http://172.16.215.142/hls/indepen.m3u8
+#EXTINF:-1 group-title="Server-1", F ATN NEWS
+http://172.16.215.142/hls/atn-news.m3u8
+#EXTINF:-1 group-title="Server-1", F EKATTOR
+http://172.16.215.142/hls/nexus.m3u8
+#EXTINF:-1 group-title="Server-1", F CHANNEL I
+http://172.16.215.142/hls/channeli.m3u8
+#EXTINF:-1 group-title="Server-1", F SOMOY
+http://172.16.215.142/hls/somoy.m3u8
+#EXTINF:-1 group-title="Server-1", F JAMUNA
+http://172.16.215.142/hls/jamuna.m3u8
+#EXTINF:-1 group-title="Server-1", F MADANI BANGLA
+http://172.16.215.142/hls/madani.m3u8
+#EXTINF:-1 group-title="Server-1", F QURAN TV
+http://172.16.215.142/hls/qurqntv.m3u8
+#EXTINF:-1 group-title="Server-1", F BANGLAVISION
+http://172.16.215.142/hls/banglavision.m3u8
+#EXTINF:-1 group-title="Server-1", F ATN BANGLA
+http://172.16.215.142/hls/atn.m3u8
+#EXTINF:-1 group-title="Server-1", F TRAVEL XP
+http://172.16.215.142/hls/travelxp.m3u8
+#EXTINF:-1 group-title="Server-1", F TLC
+http://172.16.215.142/hls/tlc.m3u8
+#EXTINF:-1 group-title="Server-1", F BBC EARTH 
+http://172.16.215.142/hls/bbcearth.m3u8
+#EXTINF:-1 group-title="Server-1", F DISCOVERY
+http://172.16.215.142/hls/discovery.m3u8
+#EXTINF:-1 group-title="Server-1", F DISCOVERY SCIENCE
+http://172.16.215.142/hls/dis-science.m3u8
+#EXTINF:-1 group-title="Server-1", F NAT GEO
+http://172.16.215.142/hls/ngohd.m3u8
+#EXTINF:-1 group-title="Server-1", F NAT GEO WILD
+http://172.16.215.142/hls/wild.m3u8
+#EXTINF:-1 group-title="Server-1", F ANIMAL PLANET
+http://172.16.215.142/hls/animalplanent.m3u8
+#EXTINF:-1 group-title="Server-1", F BBC WORLD NEWS
+http://172.16.215.142/hls/bbcworld.m3u8
+#EXTINF:-1 group-title="Server-1", F ALJAZEERA
+http://172.16.215.142/hls/aljazeera.m3u8
+
+#EXTINF:-1 group-title="Server-2", E BTV
+http://10.90.90.106:8082/Btv-World/mono.m3u8
+#EXTINF:-1 group-title="Server-2", E GTV
+http://10.90.90.106:8082/Gazi-Tv/index.m3u8
+#EXTINF:-1 group-title="Server-2", E TEN SPORTS
+http://10.90.90.106:8082/Ten-Sports/index.m3u8
+#EXTINF:-1 group-title="Server-2", E BEIN EXTRA
+http://10.90.90.106:8082/Bein-Sports/index.m3u8
+#EXTINF:-1 group-title="Server-2", E DUBAI SPORTS
+http://10.90.90.106:8082/Dubai-Sports/index.m3u8
+#EXTINF:-1 group-title="Server-2", E SONY SP 1
+http://10.90.90.106:8082/Ten1/index.m3u8
+#EXTINF:-1 group-title="Server-2", E SONY SP 2
+http://10.90.90.106:8082/Ten2/index.m3u8
+#EXTINF:-1 group-title="Server-2", E SONY SP 3
+http://10.90.90.106:8082/Ten3/index.m3u8
+#EXTINF:-1 group-title="Server-2", E STAR SP 1
+http://10.90.90.106:8082/Star-Sports-1/index.m3u8
+#EXTINF:-1 group-title="Server-2", E STAR SP 2
+http://10.90.90.106:8082/Star-Sports-2/index.m3u8
+#EXTINF:-1 group-title="Server-2", E STAR SP SELECT 1
+http://10.90.90.106:8082/Star-Select-1/index.m3u8
+#EXTINF:-1 group-title="Server-2", E STAR SP SELECT 2
+http://10.90.90.106:8082/Star-Select-2/index.m3u8
+#EXTINF:-1 group-title="Server-2", E T SPORTS
+http://10.90.90.106:8082/T-Sports/index.m3u8
+#EXTINF:-1 group-title="Server-2", E PTV SP
+http://10.90.90.106:8082/PTV-Sports/index.m3u8
+#EXTINF:-1 group-title="Server-2", E ZOOM
+http://10.90.90.106:8082/Zoom/index.m3u8
+#EXTINF:-1 group-title="Server-2", E GAAN BANGLA
+http://10.90.90.106:8082/GaanBangla/index.m3u8
+#EXTINF:-1 group-title="Server-2", E MTV
+http://10.90.90.106:8082/Mtv/index.m3u8
+#EXTINF:-1 group-title="Server-2", E 9X JALWA
+http://10.90.90.106:8082/9X-Jalwa/index.m3u8
+#EXTINF:-1 group-title="Server-2", E 9XM
+http://10.90.90.106:8082/9XM/index.m3u8
+#EXTINF:-1 group-title="Server-2", E MASTI
+http://10.90.90.106:8082/Mastis/index.m3u8
+#EXTINF:-1 group-title="Server-2", E SANGEET BANGLA
+http://10.90.90.106:8082/Sangeet-Banglas/index.m3u8
+#EXTINF:-1 group-title="Server-2", E COLORS BANGLA
+http://10.90.90.106:8082/colorsbangla/index.m3u8
+#EXTINF:-1 group-title="Server-2", E STAR JALSHA
+http://10.90.90.106:8082/Star-Jalsha/index.m3u8
+#EXTINF:-1 group-title="Server-2", E ZEE BANGLA
+http://10.90.90.106:8082/ZeeBanglaHD/index.m3u8
+#EXTINF:-1 group-title="Server-2", E SUN BANGLA
+http://10.90.90.106:8082/Sun-Bangla/index.m3u8
+#EXTINF:-1 group-title="Server-2", E SONY AATH
+http://10.90.90.106:8082/Sonyaath/index.m3u8
+#EXTINF:-1 group-title="Server-2", E JALSHA MOVIES
+http://10.90.90.106:8082/Jalsha-Movies/index.m3u8
+#EXTINF:-1 group-title="Server-2", E COLORS BANGLA CINEMA
+http://10.90.90.106:8082/Colors-Bangla-Cinema/index.m3u8
+#EXTINF:-1 group-title="Server-2", E ZEE BANGLA CINEMA
+http://10.90.90.106:8082/ZeeBanglacinema/index.m3u8
+#EXTINF:-1 group-title="Server-2", E AKASH AATH
+http://10.90.90.106:8082/Akash-Aath/index.m3u8
+#EXTINF:-1 group-title="Server-2", E ENTERR 10
+http://10.90.90.106:8082/Enter-Ten/index.m3u8
+#EXTINF:-1 group-title="Server-2", E NICK
+http://10.90.90.106:8082/nike/index.m3u8
+#EXTINF:-1 group-title="Server-2", E CARTOON NETWORK
+http://10.90.90.106:8082/Cartoon-Newtork/index.m3u8
+#EXTINF:-1 group-title="Server-2", E DURANTO
+http://10.90.90.106:8082/Duranta-Tv/index.m3u8
+#EXTINF:-1 group-title="Server-2", E SONY EN
+http://10.90.90.106:8082/SonyTVHD/index.m3u8
+#EXTINF:-1 group-title="Server-2", E COLORS
+http://10.90.90.106:8082/colorsindia/index.m3u8
+#EXTINF:-1 group-title="Server-2", E STAR PLUS
+http://10.90.90.106:8082/Star-Pluss/index.m3u8
+#EXTINF:-1 group-title="Server-2", E ZEE TV
+http://10.90.90.106:8082/Zee-Hd/index.m3u8
+#EXTINF:-1 group-title="Server-2", E SONY WAH
+http://10.90.90.106:8082/Sony-Wah/index.m3u8
+#EXTINF:-1 group-title="Server-2", E STAR GOLD
+http://10.90.90.106:8082/Star-Golds/index.m3u8
+#EXTINF:-1 group-title="Server-2", E ZEE CINEMA
+http://10.90.90.106:8082/ZeeCinemaHD/index.m3u8
+#EXTINF:-1 group-title="Server-2", E UTV MOVIES
+http://10.90.90.106:8082/Utv-Hd/index.m3u8
+#EXTINF:-1 group-title="Server-2", E SONY MAX
+http://10.90.90.106:8082/Sony-Max/index.m3u8
+#EXTINF:-1 group-title="Server-2", E SONY SAB
+http://10.90.90.106:8082/Sony_Sab/index.m3u8
+#EXTINF:-1 group-title="Server-2", E UTV ACTION
+http://10.90.90.106:8082/Utv-Actions/index.m3u8
+#EXTINF:-1 group-title="Server-2", E SONY PIX HD
+http://10.90.90.106:8082/SonyPix/index.m3u8
+#EXTINF:-1 group-title="Server-2", E MOVIES NOW
+http://10.90.90.106:8082/Movies-Now/index.m3u8
+#EXTINF:-1 group-title="Server-2", E STAR MOVIES
+http://10.90.90.106:8082/Star-Movies/index.m3u8
+#EXTINF:-1 group-title="Server-2", E MN+
+http://10.90.90.106:8082/MN-Plus/index.m3u8
+#EXTINF:-1 group-title="Server-2", E MNX HD
+http://10.90.90.106:8082/MNX/index.m3u8
+#EXTINF:-1 group-title="Server-2", E AXN HD
+http://10.90.90.106:8082/AXN/index.m3u8
+#EXTINF:-1 group-title="Server-2", E STAR WORLD
+http://10.90.90.106:8082/Star-World/index.m3u8
+#EXTINF:-1 group-title="Server-2", E LOTUS MACAU
+http://10.90.90.106:8082/Lotus/index.m3u8
+#EXTINF:-1 group-title="Server-2", E INDEPENDENT
+http://10.90.90.106:8082/Independent-Tv/index.m3u8
+#EXTINF:-1 group-title="Server-2", E ATN NEWS
+http://10.90.90.106:8082/Atn-News/index.m3u8
+#EXTINF:-1 group-title="Server-2", E EKATTOR
+http://10.90.90.106:8082/Ekattor-tv/index.m3u8
+#EXTINF:-1 group-title="Server-2", E CHANNEL 24
+http://10.90.90.106:8082/Channel24/index.m3u8
+#EXTINF:-1 group-title="Server-2", E NEWS 24
+http://10.90.90.106:8082/News24bd/index.m3u8
+#EXTINF:-1 group-title="Server-2", E DBC
+http://10.90.90.106:8082/DBC-NEWS/index.m3u8
+#EXTINF:-1 group-title="Server-2", E CHANNEL I
+http://10.90.90.106:8082/Channel-i/index.m3u8
+#EXTINF:-1 group-title="Server-2", E SOMOY
+http://10.90.90.106:8082/Somoy-TV/index.m3u8
+#EXTINF:-1 group-title="Server-2", E MAASRANGA
+http://10.90.90.106:8082/Maasranga/index.m3u8
+#EXTINF:-1 group-title="Server-2", E ATN BANGLA
+http://10.90.90.106:8082/ATN-Bangla/index.m3u8
+#EXTINF:-1 group-title="Server-2", E ATN BANGLA MUSIC
+http://10.90.90.106:8082/Atnmusic/index.m3u8
+#EXTINF:-1 group-title="Server-2", E ATN ISLAMIC
+http://10.90.90.106:8082/Atn-Islamic/index.m3u8
+#EXTINF:-1 group-title="Server-2", E BOISHAKHI
+http://10.90.90.106:8082/Boishakhi/index.m3u8
+#EXTINF:-1 group-title="Server-2", E BANGLAVISION
+http://10.90.90.106:8082/BanglaVision/index.m3u8
+#EXTINF:-1 group-title="Server-2", E NTV
+http://10.90.90.106:8082/Ntv/index.m3u8
+#EXTINF:-1 group-title="Server-2", E RTV
+http://10.90.90.106:8082/RTV/index.m3u8
+#EXTINF:-1 group-title="Server-2", E EKUSHEY
+http://10.90.90.106:8082/Ekushey-TV/index.m3u8
+#EXTINF:-1 group-title="Server-2", E DEEPTO TV
+http://10.90.90.106:8082/Deepto-Tv/index.m3u8
+#EXTINF:-1 group-title="Server-2", E NAGORIK
+http://10.90.90.106:8082/Nagorik-TV/index.m3u8
+#EXTINF:-1 group-title="Server-2", E SATV
+http://10.90.90.106:8082/SATV/index.m3u8
+#EXTINF:-1 group-title="Server-2", E MOHONA
+http://10.90.90.106:8082/MohonaTV/index.m3u8
+#EXTINF:-1 group-title="Server-2", E MY TV
+http://10.90.90.106:8082/MyTV/index.m3u8
+#EXTINF:-1 group-title="Server-2", E BTV
+http://10.90.90.106:8082/Btv-World/index.m3u8
+#EXTINF:-1 group-title="Server-2", E TRAVEL XP
+http://10.90.90.106:8082/Travel-XP/index.m3u8
+#EXTINF:-1 group-title="Server-2", E TLC
+http://10.90.90.106:8082/TLC_World/index.m3u8
+#EXTINF:-1 group-title="Server-2", E BBC EARTH 
+http://10.90.90.106:8082/Bbc-Earth/index.m3u8
+#EXTINF:-1 group-title="Server-2", E DISCOVERY
+http://10.90.90.106:8082/Discovery-Tv/index.m3u8
+#EXTINF:-1 group-title="Server-2", E NAT GEO
+http://10.90.90.106:8082/Nat-Geos/index.m3u8
+#EXTINF:-1 group-title="Server-2", E BBC WORLD NEWS
+http://10.90.90.106:8082/BBC_World/index.m3u8
+#EXTINF:-1 group-title="Server-2", E ALJAZEERA
+http://10.90.90.106:8082/Aljazeera/index.m3u8
