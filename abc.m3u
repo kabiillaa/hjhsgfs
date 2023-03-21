@@ -320,3 +320,105 @@ http://10.90.90.106:8082/Nat-Geos/index.m3u8
 http://10.90.90.106:8082/BBC_World/index.m3u8
 #EXTINF:-1 group-title="Server-2", E ALJAZEERA
 http://10.90.90.106:8082/Aljazeera/index.m3u8
+
+
+#EXTINF:-1 group-title="OTV 1", GTV Bdix
+http://bcdn.bdixsports.live:1935/live/event.stream/chunklist_w1900503185.m3u8
+#EXTINF:-1 group-title="OTV 1", GTV 106
+http://test-otv1.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1 group-title="OTV 1", SP18 107
+http://test-otv1.ftpbd.net/streams/107/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  Sony SP 2 109
+http://test-otv1.ftpbd.net/streams/109/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  ST SP 1 110
+http://test-otv1.ftpbd.net/streams/110/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  Sony SP 1 111
+http://test-otv1.ftpbd.net/streams/111/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  Ekattor 114
+http://test-otv1.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  T Sports 115
+http://test-otv1.ftpbd.net/streams/115/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  ST SP Select 1 116
+http://test-otv1.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  Star Jalsha
+http://test-otv1.ftpbd.net/streams/117/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  UNKOWN
+http://test-otv1.ftpbd.net/streams/118/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  Zee Bangla
+http://test-otv1.ftpbd.net/streams/119/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  Jalsha Movies
+http://test-otv1.ftpbd.net/streams/120/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  Sony Sp 5
+http://test-otv1.ftpbd.net/streams/121/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  Sony SP 3
+http://test-otv1.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  Unknown 2
+http://test-otv1.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  Star Plus
+http://test-otv1.ftpbd.net/streams/124/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  ST SP Select 2 125
+http://test-otv1.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  St Sp 2
+http://test-otv1.ftpbd.net/streams/126/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  Sony Aath
+http://test-otv1.ftpbd.net/streams/127/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  Sony Max
+http://test-otv1.ftpbd.net/streams/128/index.m3u8
+#EXTINF:-1 group-title="OTV 1",  Independent Jago bd
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  Somoy Jago bd
+https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  Channel 24 Jago bd
+https://channel24.jaagobd.com/channel24/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  Bangla tv Jagobd
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  DBC Jago bd
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  Aljazeera Web
+https://live-hls-web-aje.getaj.net/AJE/04.m3u8
+#EXTINF:-1 group-title="OTV 1",  DEEN TV web
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  MADANI TV Web
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="OTV 1",  NEWS 24 Jago bd
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  DW English Jago bd
+http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  Asian Tv Jagobd
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1", ATN Bangla Jagobd
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8 
+#EXTINF:-1 group-title="OTV 1",  Jago News24 Jagobd
+http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  Roal tv Jagobd
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  NRB Tv Jagobd
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  Deshe Bideshe Jagobd
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  RTV Jagobd
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  Banglavision Jagobd
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  Boishaki Tv Jagobd
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="OTV 1",  MYTV Jagobd
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  Movie Bangla Jagobd
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  Matribhumi Web
+http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
+#EXTINF:-1 group-title="OTV 1",  Nan Jagobd
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  S Jagobd
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  ATN Music Jagobd
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  Jamuna Jagobd
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 group-title="OTV 1",  BTV World Jagobd
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  DEEPTO Jagobd
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTV 1",  Peace TV Web
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
