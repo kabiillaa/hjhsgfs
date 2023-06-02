@@ -155,186 +155,186 @@ http://172.16.215.142/hls/bbcworld.m3u8
 http://172.16.215.142/hls/aljazeera.m3u8
 
 #EXTM3U
-#EXTINF:-1 goup-title="tv", WILLOW HD
-http://10.90.90.106:8082/Willow/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", T-SPORTS
+#EXTINF:-1 group-title="tv", T-SPORTS
 http://10.90.90.106:8082/T-Sports/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", GAZI-TV
+#EXTINF:-1 group-title="tv", GAZI-TV
 http://10.90.90.106:8082/Gazi-Tv/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", PTV-SPORTS
+#EXTINF:-1 group-title="tv", PTV-SPORTS
 http://10.90.90.106:8082/PTV-Sports/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", TEN 1
+#EXTINF:-1 group-title="tv", TEN 1
 http://10.90.90.106:8082/Ten1/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", TEN 2
+#EXTINF:-1 group-title="tv", TEN 2
 http://10.90.90.106:8082/Ten2/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", TEN 3
+#EXTINF:-1 group-title="tv", TEN 3
 http://10.90.90.106:8082/Ten3/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", STAR SPORTS 1
+#EXTINF:-1 group-title="tv", STAR SPORTS 1
 http://10.90.90.106:8082/Star-Sports-1/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", STAR SPORTS 2
+#EXTINF:-1 group-title="tv", STAR SPORTS 2
 http://10.90.90.106:8082/Star-Sports-2/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", STAR SELECT 1
+#EXTINF:-1 group-title="tv", STAR SELECT 1
 http://10.90.90.106:8082/Star-Select-1/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", STAR SELECT 2
+#EXTINF:-1 group-title="tv", STAR SELECT 2
 http://10.90.90.106:8082/Star-Select-2/index.fmp4.m3u8
+#EXTINF:-1 group-title="tv", WILLOW HD
+http://10.90.90.106:8082/Willow/index.fmp4.m3u8
 
-#EXTINF:-1 goup-title="tv", BTV WORLD
+#EXTINF:-1 group-title="tv", BTV WORLD
 http://10.90.90.106:8082/Btv-World/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", ATN BANGLA
+#EXTINF:-1 group-title="tv", ATN BANGLA
 http://10.90.90.106:8082/ATN-Bangla/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", ATN NEWS
+#EXTINF:-1 group-title="tv", ATN NEWS
 http://10.90.90.106:8082/Atn-News/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", BOISHAKHI
+#EXTINF:-1 group-title="tv", BOISHAKHI
 http://10.90.90.106:8082/Boishakhi/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", BANGLAVISION
+#EXTINF:-1 group-title="tv", BANGLAVISION
 http://10.90.90.106:8082/BanglaVision/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", CHANNEL 24
+#EXTINF:-1 group-title="tv", CHANNEL 24
 http://10.90.90.106:8082/Channel24/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", CHANNEL I
+#EXTINF:-1 group-title="tv", CHANNEL I
 http://10.90.90.106:8082/Channel-i/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", DBC NEWS
+#EXTINF:-1 group-title="tv", DBC NEWS
 http://10.90.90.106:8082/DBC-NEWS/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", DEEPTO TV
+#EXTINF:-1 group-title="tv", DEEPTO TV
 http://10.90.90.106:8082/Deepto-Tv/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", EKATTOR TV
+#EXTINF:-1 group-title="tv", EKATTOR TV
 http://10.90.90.106:8082/Ekattor-tv/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", EKUSHEY TV
+#EXTINF:-1 group-title="tv", EKUSHEY TV
 http://10.90.90.106:8082/Ekushey-TV/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", GAZI-TV
+#EXTINF:-1 group-title="tv", GAZI-TV
 http://10.90.90.106:8082/Gazi-Tv/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", INDEPENDENT TV
+#EXTINF:-1 group-title="tv", INDEPENDENT TV
 http://10.90.90.106:8082/Independent-Tv/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", NAGORIK TV
+#EXTINF:-1 group-title="tv", NAGORIK TV
 http://10.90.90.106:8082/Nagorik-TV/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", MAASRANGA
+#EXTINF:-1 group-title="tv", MAASRANGA
 http://10.90.90.106:8082/Maasranga/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", MOOHONA TV
+#EXTINF:-1 group-title="tv", MOOHONA TV
 http://10.90.90.106:8082/MohonaTV/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", MY TV
+#EXTINF:-1 group-title="tv", MY TV
 http://10.90.90.106:8082/MyTV/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", NEWS 24
+#EXTINF:-1 group-title="tv", NEWS 24
 http://10.90.90.106:8082/News24bd/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", NTV
+#EXTINF:-1 group-title="tv", NTV
 http://10.90.90.106:8082/Ntv/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", RTV
+#EXTINF:-1 group-title="tv", RTV
 http://10.90.90.106:8082/RTV/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", SOMOY TV
+#EXTINF:-1 group-title="tv", SOMOY TV
 http://10.90.90.106:8082/Somoy-TV/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", GAAN BANGLA TV
+#EXTINF:-1 group-title="tv", GAAN BANGLA TV
 http://10.90.90.106:8082/GaanBangla/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", SATV
+#EXTINF:-1 group-title="tv", SATV
 http://10.90.90.106:8082/SATV/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", EKHON TV
+#EXTINF:-1 group-title="tv", EKHON TV
 http://10.90.90.106:8082/Ekhon-Tv/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", BIJOY TV
+#EXTINF:-1 group-title="tv", BIJOY TV
 http://10.90.90.106:8082/Bijoy-Tv/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", CHANNEL NEWS ASIA
+#EXTINF:-1 group-title="tv", CHANNEL NEWS ASIA
 http://10.90.90.106:8082/Channel-News-Asia/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", GLOBAL TV
+#EXTINF:-1 group-title="tv", GLOBAL TV
 http://10.90.90.106:8082/Global-Tv/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", NEXUS TV
+#EXTINF:-1 group-title="tv", NEXUS TV
 http://10.90.90.106:8082/Nexus-Television/index.fmp4.m3u8
 
-#EXTINF:-1 goup-title="tv", NICK
+#EXTINF:-1 group-title="tv", NICK
 http://10.90.90.106:8082/nike/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", NICK JR
+#EXTINF:-1 group-title="tv", NICK JR
 http://10.90.90.106:8082/Nick-Junior/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", SONIC
+#EXTINF:-1 group-title="tv", SONIC
 http://10.90.90.106:8082/Sonic/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", SONY YAY
+#EXTINF:-1 group-title="tv", SONY YAY
 http://10.90.90.106:8082/Sony-Yay/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", CARTOON NETWORK
+#EXTINF:-1 group-title="tv", CARTOON NETWORK
 http://10.90.90.106:8082/Cartoon-Newtork/index.fmp4.m3u8
 
-#EXTINF:-1 goup-title="tv", VH1
+#EXTINF:-1 group-title="tv", VH1
 http://10.90.90.106:8082/VH1/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", 9X JALWA
+#EXTINF:-1 group-title="tv", 9X JALWA
 http://10.90.90.106:8082/9X-Jalwa/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", 9XM
+#EXTINF:-1 group-title="tv", 9XM
 http://10.90.90.106:8082/9XM/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", MTV BEATS
+#EXTINF:-1 group-title="tv", MTV BEATS
 http://10.90.90.106:8082/Mtv-Beats/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", MB MUSIC
+#EXTINF:-1 group-title="tv", MB MUSIC
 http://10.90.90.106:8082/Mb-Music/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", MOVIE BANGLA MUSIC
+#EXTINF:-1 group-title="tv", MOVIE BANGLA MUSIC
 http://10.90.90.106:8082/Movie-Bangla-Music/index.fmp4.m3u8
 
-#EXTINF:-1 goup-title="tv", STAR JALSHA
+#EXTINF:-1 group-title="tv", STAR JALSHA
 http://10.90.90.106:8082/Star-Jalsha/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", SUN BANGLA
+#EXTINF:-1 group-title="tv", SUN BANGLA
 http://10.90.90.106:8082/Sun-Bangla/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", ZEE BANGLA
+#EXTINF:-1 group-title="tv", ZEE BANGLA
 http://10.90.90.106:8082/ZeeBanglaHD/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", COLORS BANGLA
+#EXTINF:-1 group-title="tv", COLORS BANGLA
 http://10.90.90.106:8082/colorsbangla/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", SONY AATH
+#EXTINF:-1 group-title="tv", SONY AATH
 http://10.90.90.106:8082/Sonyaath/index.fmp4.m3u8
 
-#EXTINF:-1 goup-title="tv", COLORS BANGLA CINEMA
+#EXTINF:-1 group-title="tv", COLORS BANGLA CINEMA
 http://10.90.90.106:8082/Colors-Bangla-Cinema/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", JALSHA MOVIES
+#EXTINF:-1 group-title="tv", JALSHA MOVIES
 http://10.90.90.106:8082/Jalshamovies/index.fmp4.m3u8
 
-#EXTINF:-1 goup-title="tv", STAR PLUS
+#EXTINF:-1 group-title="tv", STAR PLUS
 http://10.90.90.106:8082/Star-Plus/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", ZEE TV
+#EXTINF:-1 group-title="tv", ZEE TV
 http://10.90.90.106:8082/Zee-Hd/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", SONY TV
+#EXTINF:-1 group-title="tv", SONY TV
 http://10.90.90.106:8082/SonyTVHD/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", COLORS
+#EXTINF:-1 group-title="tv", COLORS
 http://10.90.90.106:8082/colorsindia/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", M-TV
+#EXTINF:-1 group-title="tv", M-TV
 http://10.90.90.106:8082/Mtv/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", SONY SAB
+#EXTINF:-1 group-title="tv", SONY SAB
 http://10.90.90.106:8082/Sony_Sab/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", COLORS RISHTEY
+#EXTINF:-1 group-title="tv", COLORS RISHTEY
 http://10.90.90.106:8082/Colors-Rishtey/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", COLORS INFINITY
+#EXTINF:-1 group-title="tv", COLORS INFINITY
 http://10.90.90.106:8082/Colors-Infinity/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", SONY PAL
+#EXTINF:-1 group-title="tv", SONY PAL
 http://10.90.90.106:8082/Sony-Pal/index.fmp4.m3u8
 
-#EXTINF:-1 goup-title="tv", SONY MAX
+#EXTINF:-1 group-title="tv", SONY MAX
 http://10.90.90.106:8082/Sony-Max/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", SONY MAX 2
+#EXTINF:-1 group-title="tv", SONY MAX 2
 http://10.90.90.106:8082/Max-2/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", ZEE CINEMA
+#EXTINF:-1 group-title="tv", ZEE CINEMA
 http://10.90.90.106:8082/ZeeCinemaHD/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", STAR GOLD
+#EXTINF:-1 group-title="tv", STAR GOLD
 http://10.90.90.106:8082/Star-Gold-Hd/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", ZEE BOLLYWOOD
+#EXTINF:-1 group-title="tv", ZEE BOLLYWOOD
 http://10.90.90.106:8082/Zee-Bollywood/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", SONY WAH
+#EXTINF:-1 group-title="tv", SONY WAH
 http://10.90.90.106:8082/Sony-Wah/index.fmp4.m3u8
 
-#EXTINF:-1 goup-title="tv", STAR MOVIES
+#EXTINF:-1 group-title="tv", STAR MOVIES
 http://10.90.90.106:8082/Star-Movies/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", SONY PIX
+#EXTINF:-1 group-title="tv", SONY PIX
 http://10.90.90.106:8082/SonyPix/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", MNX
+#EXTINF:-1 group-title="tv", MNX
 http://10.90.90.106:8082/MNX/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", MN-PLUS
+#EXTINF:-1 group-title="tv", MN-PLUS
 http://10.90.90.106:8082/MN-Plus/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", LOTUS MACAU
+#EXTINF:-1 group-title="tv", LOTUS MACAU
 http://10.90.90.106:8082/Lotus-Macau/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", COMEDY CENTRAL
+#EXTINF:-1 group-title="tv", COMEDY CENTRAL
 http://10.90.90.106:8082/Comedy-Central/index.fmp4.m3u8
 
-#EXTINF:-1 goup-title="tv", DISCOVERY
+#EXTINF:-1 group-title="tv", DISCOVERY
 http://10.90.90.106:8082/Discovery-Tv/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", NAT GEO
+#EXTINF:-1 group-title="tv", NAT GEO
 http://10.90.90.106:8082/Nat-Geo/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", TLC WORLD
+#EXTINF:-1 group-title="tv", TLC WORLD
 http://10.90.90.106:8082/TLC_World/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", HISTORY TV 18
+#EXTINF:-1 group-title="tv", HISTORY TV 18
 http://10.90.90.106:8082/History-Tv/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", BBC EARTH
+#EXTINF:-1 group-title="tv", BBC EARTH
 http://10.90.90.106:8082/Bbc-Earth/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", SAUDI QURAN
+#EXTINF:-1 group-title="tv", SAUDI QURAN
 http://10.90.90.106:8082/Sudi-Quran/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", DW
+#EXTINF:-1 group-title="tv", DW
 http://10.90.90.106:8082/Dw/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", BBC WORLD
+#EXTINF:-1 group-title="tv", BBC WORLD
 http://10.90.90.106:8082/BBC_World/index.fmp4.m3u8
-#EXTINF:-1 goup-title="tv", AL JAZEERA
+#EXTINF:-1 group-title="tv", AL JAZEERA
 http://10.90.90.106:8082/Aljazeera/index.fmp4.m3u8
