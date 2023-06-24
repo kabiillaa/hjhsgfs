@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Server-1", F Sports 18
 http://172.16.215.142/hls/bein1.m3u8
-#EXTINF:-1 group-title="Server-1", F & PICTURES
-http://172.16.215.142/hls/andpictures.m3u8
-#EXTINF:-1 group-title="Server-1", F NAGORIK
-http://172.16.215.142/hls/nagoriktv.m3u8
+#EXTINF:-1 group-title="Server-1", F PTV SPORTS
+http://172.16.215.142/hls/ptv.m3u8
 #EXTINF:-1 group-title="Server-1", F GTV
 http://172.16.215.142/hls/Gazi-TV.m3u8
 #EXTINF:-1 group-title="Server-1", F SONY SP 1
@@ -77,6 +75,8 @@ http://172.16.215.142/hls/sonyen.m3u8
 http://172.16.215.142/hls/starplus.m3u8
 #EXTINF:-1 group-title="Server-1", F ZEE TV
 http://172.16.215.142/hls/zeetv.m3u8
+#EXTINF:-1 group-title="Server-1", F & PICTURES
+http://172.16.215.142/hls/andpictures.m3u8
 #EXTINF:-1 group-title="Server-1", F COLORS
 http://172.16.215.142/hls/colore-tv-hd.m3u8
 #EXTINF:-1 group-title="Server-1", F STAR GOLD
@@ -113,6 +113,8 @@ http://172.16.215.142/hls/axn.m3u8
 http://172.16.215.142/hls/star-worldhd.m3u8
 #EXTINF:-1 group-title="Server-1", F LOTUS MACAU
 http://172.16.215.142/hls/lotus.m3u8
+#EXTINF:-1 group-title="Server-1", F NAGORIK
+http://172.16.215.142/hls/nagoriktv.m3u8
 #EXTINF:-1 group-title="Server-1", F INDEPENDENT
 http://172.16.215.142/hls/indepen.m3u8
 #EXTINF:-1 group-title="Server-1", F ATN NEWS
@@ -154,7 +156,6 @@ http://172.16.215.142/hls/bbcworld.m3u8
 #EXTINF:-1 group-title="Server-1", F ALJAZEERA
 http://172.16.215.142/hls/aljazeera.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="tv", T-SPORTS
 http://10.90.90.106:8082/T-Sports/index.fmp4.m3u8
 #EXTINF:-1 group-title="tv", GAZI-TV
