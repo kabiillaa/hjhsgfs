@@ -1,111 +1,113 @@
 #EXTM3U
-#EXTINF:-1 group-title="Server-1", Sports 18
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/18.png", Sports 18
 http://172.16.215.142/hls/18.m3u8
-#EXTINF:-1 group-title="Server-1", PTV SPORTS
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/PTV_Sports.png", PTV SPORTS
 http://172.16.215.142/hls/ptv.m3u8
-#EXTINF:-1 group-title="Server-1", GTV
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/gtv.jpg", GTV
 http://172.16.215.142/hls/Gazi-TV.m3u8
-#EXTINF:-1 group-title="Server-1", SONY SP 1
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/sony-1.png", SONY SP 1
 http://172.16.215.142/hls/sonyten1.m3u8
-#EXTINF:-1 group-title="Server-1", SONY SP 2
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/sony-2.png", SONY SP 2
 http://172.16.215.142/hls/sonyten2.m3u8
-#EXTINF:-1 group-title="Server-1", SONY SP 3
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/sony-3.png", SONY SP 3
 http://172.16.215.142/hls/sonyten3.m3u8
-#EXTINF:-1 group-title="Server-1", SONY SP 5
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/sony-5.png", SONY SP 5
 http://172.16.215.142/hls/sonysix.m3u8
-#EXTINF:-1 group-title="Server-1", STAR SP 1
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/stersports1hd.jpg", STAR SP 1
 http://172.16.215.142/hls/stersports1hd.m3u8
-#EXTINF:-1 group-title="Server-1", STAR SP 2
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/ster-sport-2hd.png", STAR SP 2
 http://172.16.215.142/hls/starsports2.m3u8
-#EXTINF:-1 group-title="Server-1", STAR SP 3
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/star_sports3.jpg", STAR SP 3
 http://172.16.215.142/hls/starsports3.m3u8
-#EXTINF:-1 group-title="Server-1", STAR SP SELECT 1
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/Star_Sports_Select_1_HD.jpg", STAR SP SELECT 1
 http://172.16.215.142/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 group-title="Server-1", STAR SP SELECT 2
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/select2.jpg", STAR SP SELECT 2
 http://172.16.215.142/hls/select2.m3u8
-#EXTINF:-1 group-title="Server-1", INDEPENDENT
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/indepen.png", INDEPENDENT
 http://172.16.215.142/hls/indepen.m3u8
-#EXTINF:-1 group-title="Server-1", EKATTOR
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/71.jpg", EKATTOR
 http://172.16.215.142/hls/71.m3u8
-#EXTINF:-1 group-title="Server-1", CHANNEL I
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/channeli.jpg", CHANNEL I
 http://172.16.215.142/hls/channeli.m3u8
-#EXTINF:-1 group-title="Server-1", SOMOY
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/somoytv.jpg", SOMOY
 http://172.16.215.142/hls/somoy.m3u8
-#EXTINF:-1 group-title="Server-1", MADANI BANGLA
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/maasranga.jpg", MAASRANGA
+http://172.16.215.142/hls/masranga.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/madani.jpg", MADANI BANGLA
 http://172.16.215.142/hls/madani.m3u8
-#EXTINF:-1 group-title="Server-1", QURAN TV
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/quraantv.jpg", QURAN TV
 http://172.16.215.142/hls/qurqntv.m3u8
-#EXTINF:-1 group-title="Server-1", TRAVEL XP
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/travelxphd.jpg", TRAVEL XP
 http://172.16.215.142/hls/travelxp.m3u8
-#EXTINF:-1 group-title="Server-1", BBC EARTH 
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/bbcearth.jpg", BBC EARTH 
 http://172.16.215.142/hls/bbcearth.m3u8
-#EXTINF:-1 group-title="Server-1", DISCOVERY
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/dis.png", DISCOVERY
 http://172.16.215.142/hls/discovery.m3u8
-#EXTINF:-1 group-title="Server-1", NAT GEO
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/Nat_Geo_HD.png", NAT GEO
 http://172.16.215.142/hls/ngohd.m3u8
-#EXTINF:-1 group-title="Server-1", NAT GEO WILD
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/wild.png", NAT GEO WILD
 http://172.16.215.142/hls/wild.m3u8
-#EXTINF:-1 group-title="Server-1", ANIMAL PLANET
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/animalplanent.jpg", ANIMAL PLANET
 http://172.16.215.142/hls/animalplanent.m3u8
-#EXTINF:-1 group-title="Server-1", BBC WORLD NEWS
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/bbcworld.jpg", BBC WORLD NEWS
 http://172.16.215.142/hls/bbcworld.m3u8
-#EXTINF:-1 group-title="Server-1", BINDASS
+#EXTINF:-1 group-title="Server-1" tvg-logo="", BINDASS
 http://172.16.215.142/hls/bindass.m3u8
-#EXTINF:-1 group-title="Server-1", 9XM
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/9xm.png", 9XM
 http://172.16.215.142/hls/9xm.m3u8
-#EXTINF:-1 group-title="Server-1", COLORS BANGLA
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/colore-bangla-cinema.jpg", COLORS BANGLA
 http://172.16.215.142/hls/colorsbangla.m3u8
-#EXTINF:-1 group-title="Server-1", STAR JALSHA
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/starjalsha.jpg", STAR JALSHA
 http://172.16.215.142/hls/starjalsha.m3u8
-#EXTINF:-1 group-title="Server-1", ZEE BANGLA
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/zeebanglahd.jpg", ZEE BANGLA
 http://172.16.215.142/hls/zeebanglahd.m3u8
-#EXTINF:-1 group-title="Server-1", SUN BANGLA
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/sunbangla.jpg", SUN BANGLA
 http://172.16.215.142/hls/sunbangla.m3u8
-#EXTINF:-1 group-title="Server-1", SONY AATH
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/Sony_Aath.png", SONY AATH
 http://172.16.215.142/hls/Sony_Aath.m3u8
-#EXTINF:-1 group-title="Server-1", JALSHA MOVIES
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/jalsha_movies.jpg", JALSHA MOVIES
 http://172.16.215.142/hls/jalshamovies.m3u8
-#EXTINF:-1 group-title="Server-1", COLORS BANGLA CINEMA
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/colore-bangla-cinema.jpg", COLORS BANGLA CINEMA
 http://172.16.215.142/hls/colore-bangla-cinema.m3u8
-#EXTINF:-1 group-title="Server-1", ZEE BANGLA CINEMA
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/Zee_Bangla_Cinema.jpg", ZEE BANGLA CINEMA
 http://172.16.215.142/hls/zee-bangla-cinema.m3u8
-#EXTINF:-1 group-title="Server-1", SANGEET BANGLA
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/sangeet.png", SANGEET BANGLA
 http://172.16.215.142/hls/sangeetbangla.m3u8
-#EXTINF:-1 group-title="Server-1", ENTERR 10
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/enterr10.jpeg", ENTERR 10
 http://172.16.215.142/hls/enterr10.m3u8
-#EXTINF:-1 group-title="Server-1", SONY YAY
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/sonyyay.jpg", SONY YAY
 http://172.16.215.142/hls/sonyway.m3u8
-#EXTINF:-1 group-title="Server-1", NICK
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/nick.jpg", NICK
 http://172.16.215.142/hls/nick.m3u8
-#EXTINF:-1 group-title="Server-1", SONY EN
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/sonyen.png", SONY EN
 http://172.16.215.142/hls/sonyen.m3u8
-#EXTINF:-1 group-title="Server-1", STAR PLUS
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/starplus.jpg", STAR PLUS
 http://172.16.215.142/hls/starplus.m3u8
-#EXTINF:-1 group-title="Server-1", ZEE TV
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/zeetv.png", ZEE TV
 http://172.16.215.142/hls/zeetv.m3u8
-#EXTINF:-1 group-title="Server-1", & PICTURES
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/andpictures-hd.jpg", & PICTURES
 http://172.16.215.142/hls/andpictures.m3u8
-#EXTINF:-1 group-title="Server-1", COLORS
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/colors-tv-hd.jpg", COLORS
 http://172.16.215.142/hls/colore-tv-hd.m3u8
-#EXTINF:-1 group-title="Server-1", STAR GOLD
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/stargold.jpg", STAR GOLD
 http://172.16.215.142/hls/stargold.m3u8
-#EXTINF:-1 group-title="Server-1", ZEE CINEMA
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/zeecinemahd.jpg", ZEE CINEMA
 http://172.16.215.142/hls/zeecinemahd.m3u8
-#EXTINF:-1 group-title="Server-1", COLORS CINEPLEX
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/colorscineplex.jpg", COLORS CINEPLEX
 http://172.16.215.142/hls/colorscineplex.m3u8
-#EXTINF:-1 group-title="Server-1", MAX
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/sony-maxhd.jpg", MAX
 http://172.16.215.142/hls/sony-maxhd.m3u8
-#EXTINF:-1 group-title="Server-1", PIX HD
+#EXTINF:-1 group-title="Server-1" tvg-logo="", PIX HD
 http://172.16.215.142/hls/sonypixhd.m3u8
-#EXTINF:-1 group-title="Server-1", MOVIES NOW
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/movies-now.jpg", MOVIES NOW
 http://172.16.215.142/hls/movies-now.m3u8
-#EXTINF:-1 group-title="Server-1", STAR MOVIES
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/starmovies.jpg", STAR MOVIES
 http://172.16.215.142/hls/starmovies.m3u8
-#EXTINF:-1 group-title="Server-1", MN+
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/mn+.jpg", MN+
 http://172.16.215.142/hls/mn+.m3u8
-#EXTINF:-1 group-title="Server-1", MNX HD
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/mnx-hd.jpg", MNX HD
 http://172.16.215.142/hls/mnx-hd.m3u8
-#EXTINF:-1 group-title="Server-1", ROMEDY NOW
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/romedy.png", ROMEDY NOW
 http://172.16.215.142/hls/star-worldhd.m3u8
 
 
@@ -277,3 +279,5 @@ http://103.141.2.37:25461/live/web/web/616.m3u8
 
 #EXTINF:-1 tvg-logo="http://10.11.12.13/img/travelxphd.jpg" group-title="LTWS Others", Travelxp HD
 http://103.141.2.37:25461/live/web/web/593.m3u8
+
+
