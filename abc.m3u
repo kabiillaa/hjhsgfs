@@ -122,7 +122,7 @@ http://103.141.2.37:25461/live/web/web/588.m3u8
 http://103.141.2.37:25461/live/web/web/612.m3u8
 #EXTINF:-1 tvg-logo="http://10.11.12.13/img/ten_sports.jpg" group-title="LTWS Bangla", DIPTO TV
 http://103.141.2.37:25461/live/web/web/587.m3u8
-#EXTINF:-1 tvg-logo="http://10.11.12.13/img/enterr10.jpeg" group-title="LTWS Hindi", Enterr 10
+#EXTINF:-1 tvg-logo="" group-title="", CN
 http://103.141.2.37:25461/live/web/web/616.m3u8
 
 
