@@ -109,6 +109,21 @@ http://172.16.215.142/hls/mn+.m3u8
 http://172.16.215.142/hls/mnx-hd.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/romedy.png", ROMEDY NOW
 http://172.16.215.142/hls/star-worldhd.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="", AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://10.11.12.13/img/tsports.jpg" group-title="LTWS Sports", T Sports
+http://103.141.2.37:25461/live/web/web/586.m3u8
+#EXTINF:-1 tvg-logo="http://10.11.12.13/img/tsports.jpg" group-title="LTWS Sports", T Sports
+http://103.141.2.37:25461/live/web/web/588.m3u8
+#EXTINF:-1 tvg-logo="http://10.11.12.13/img/atntv.png" group-title="LTWS Bangla", ATN TV
+http://103.141.2.37:25461/live/web/web/612.m3u8
+#EXTINF:-1 tvg-logo="http://10.11.12.13/img/ten_sports.jpg" group-title="LTWS Bangla", DIPTO TV
+http://103.141.2.37:25461/live/web/web/587.m3u8
+#EXTINF:-1 tvg-logo="http://10.11.12.13/img/enterr10.jpeg" group-title="LTWS Hindi", Enterr 10
+http://103.141.2.37:25461/live/web/web/616.m3u8
 
 
 
@@ -157,11 +172,6 @@ http://103.141.2.37:25461/live/web/web/603.m3u8
 #EXTINF:-1 tvg-logo="http://10.11.12.13/img/sangeet.png" group-title="LTWS Bangla", Sangeet
 http://103.141.2.37:25461/live/web/web/604.m3u8
 
-#EXTINF:-1 tvg-logo="http://10.11.12.13/img/atntv.png" group-title="LTWS Bangla", ATN TV
-http://103.141.2.37:25461/live/web/web/612.m3u8
-
-#EXTINF:-1 tvg-logo="http://10.11.12.13/img/ten_sports.jpg" group-title="LTWS Bangla", DIPTO TV
-http://103.141.2.37:25461/live/web/web/587.m3u8
 
 #EXTINF:-1 tvg-logo="http://10.11.12.13/img/andpictures-hd.jpg" group-title="LTWS Hindi", Pictures HD
 http://103.141.2.37:25461/live/web/web/543.m3u8
@@ -268,8 +278,6 @@ http://103.141.2.37:25461/live/web/web/584.m3u8
 #EXTINF:-1 tvg-logo="http://10.11.12.13/img/sony_ten_1.jpg" group-title="LTWS Sports", Sony_Ten_1
 http://103.141.2.37:25461/live/web/web/585.m3u8
 
-#EXTINF:-1 tvg-logo="http://10.11.12.13/img/tsports.jpg" group-title="LTWS Sports", T Sports
-http://103.141.2.37:25461/live/web/web/586.m3u8
 
 #EXTINF:-1 tvg-logo="http://10.11.12.13/img/nick.jpg" group-title="LTWS Cartoon", Nick
 http://103.141.2.37:25461/live/web/web/615.m3u8
@@ -279,5 +287,3 @@ http://103.141.2.37:25461/live/web/web/616.m3u8
 
 #EXTINF:-1 tvg-logo="http://10.11.12.13/img/travelxphd.jpg" group-title="LTWS Others", Travelxp HD
 http://103.141.2.37:25461/live/web/web/593.m3u8
-
-
