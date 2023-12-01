@@ -23,6 +23,14 @@ http://172.16.215.142/hls/starsports3.m3u8
 http://172.16.215.142/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/select2.jpg", STAR SP SELECT 2
 http://172.16.215.142/hls/select2.m3u8
+
+#EXTINF:-1 group-title="JAGO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png", DEEPTO TV 
+https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 group-title="JAGO" tvg-logo="BOISHAKHI", BOISHAKHI 
+https://bd.jagobd.com:444/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="JAGO" tvg-logo="ATN BANGLA", ATN BANGLA 
+https://bd.jagobd.com:444/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/indepen.png", INDEPENDENT
 http://172.16.215.142/hls/indepen.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/71.jpg", EKATTOR
@@ -122,7 +130,7 @@ http://103.141.2.37:25461/live/web/web/588.m3u8
 http://103.141.2.37:25461/live/web/web/612.m3u8
 #EXTINF:-1 tvg-logo="http://10.11.12.13/img/ten_sports.jpg" group-title="LTWS Bangla", DIPTO TV
 http://103.141.2.37:25461/live/web/web/587.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", CN
+#EXTINF:-1 tvg-logo="http://10.11.12.13/img/enterr10.jpeg" group-title="LTWS Hindi", Enterr 10
 http://103.141.2.37:25461/live/web/web/616.m3u8
 
 
@@ -287,3 +295,5 @@ http://103.141.2.37:25461/live/web/web/616.m3u8
 
 #EXTINF:-1 tvg-logo="http://10.11.12.13/img/travelxphd.jpg" group-title="LTWS Others", Travelxp HD
 http://103.141.2.37:25461/live/web/web/593.m3u8
+
+
