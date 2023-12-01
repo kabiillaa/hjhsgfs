@@ -24,7 +24,28 @@ http://172.16.215.142/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/select2.jpg", STAR SP SELECT 2
 http://172.16.215.142/hls/select2.m3u8
 
-#EXTINF:-1 group-title="JAGO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png", DEEPTO TV 
+
+#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/sony-1.png", SONY SP 1*
+http://chanel.dekhaott.com/sonyten1/index.fmp4.m3u8
+#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/sony-2.png", SONY SP 2*
+http://chanel.dekhaott.com/sonyten2/index.fmp4.m3u8
+#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/sony-3.png", SONY SP 3*
+http://chanel.dekhaott.com/sonyten3/index.fmp4.m3u8
+#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/sony-5.png", SONY SP 5*
+http://chanel.dekhaott.com/SONY_SportsTen5_HD/index.fmp4.m3u8
+#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/stersports1hd.jpg", STAR SP 1*
+http://chanel.dekhaott.com/stersports1hd/index.fmp4.m3u8
+#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/ster-sport-2hd.png", STAR SP 2*
+http://chanel.dekhaott.com/starsports2/index.fmp4.m3u8
+#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/star_sports3.jpg", STAR SP 3*
+http://172.16.215.142/hls/starsports3.m3u8
+#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/Star_Sports_Select_1_HD.jpg", STAR SP SELECT 1*
+http://chanel.dekhaott.com/Star_Sport_Select1HD/index.fmp4.m3u8
+#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/select2.jpg", STAR SP SELECT 2*
+http://chanel.dekhaott.com/select2/index.fmp4.m3u8
+
+
+#EXTINF:-1 group-title="JAGO" tvg-logo="DEEPTO TV", DEEPTO TV 
 https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 group-title="JAGO" tvg-logo="BOISHAKHI", BOISHAKHI 
 https://bd.jagobd.com:444/live-orgin/boishakhitv-org.stream/chunks.m3u8
@@ -135,7 +156,7 @@ http://103.141.2.37:25461/live/web/web/616.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://10.11.12.13/img/enterr10.jpeg" group-title="LTWS Hindi", Enterr 10
+#EXTINF:-1 tvg-logo="http://10.11.12.13/img/enterr10.jpeg" group-title="LTWS Hindi", Enterr 10*
 http://103.141.2.37:25461/live/web/web/606.m3u8
 
 #EXTINF:-1 tvg-logo="http://10.11.12.13/img/sunbangla.jpg" group-title="LTWS Bangla", Sun Bangla
