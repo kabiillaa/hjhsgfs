@@ -1,71 +1,96 @@
 #EXTM3U
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/18.png", Sports 18
-http://172.16.215.142/hls/18.m3u8
+http://172.16.215.142/hls/5062.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/PTV_Sports.png", PTV SPORTS
-http://172.16.215.142/hls/ptv.m3u8
+http://172.16.215.142/hls/4151.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/gtv.jpg", GTV
-http://172.16.215.142/hls/Gazi-TV.m3u8
+http://172.16.215.142/hls/5008.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/sony-1.png", SONY SP 1
-http://172.16.215.142/hls/sonyten1.m3u8
+http://172.16.215.142/hls/5056.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/sony-2.png", SONY SP 2
-http://172.16.215.142/hls/sonyten2.m3u8
+http://172.16.215.142/hls/5044.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/sony-3.png", SONY SP 3
-http://172.16.215.142/hls/sonyten3.m3u8
+http://172.16.215.142/hls/5045.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/sony-5.png", SONY SP 5
-http://172.16.215.142/hls/sonysix.m3u8
+http://172.16.215.142/hls/5020.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/stersports1hd.jpg", STAR SP 1
-http://172.16.215.142/hls/stersports1hd.m3u8
+http://172.16.215.142/hls/5052.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/ster-sport-2hd.png", STAR SP 2
-http://172.16.215.142/hls/starsports2.m3u8
+http://172.16.215.142/hls/5042.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/star_sports3.jpg", STAR SP 3
-http://172.16.215.142/hls/starsports3.m3u8
+http://172.16.215.142/hls/5019.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/Star_Sports_Select_1_HD.jpg", STAR SP SELECT 1
-http://172.16.215.142/hls/Star_Sport_Select1HD.m3u8
+http://172.16.215.142/hls/5055.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/select2.jpg", STAR SP SELECT 2
-http://172.16.215.142/hls/select2.m3u8
+http://172.16.215.142/hls/5043.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/select2.jpg", SPORTS 1
+http://172.16.215.142/hls/5066.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/select2.jpg", SPORTS 2
+http://172.16.215.142/hls/5075.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/select2.jpg", SPORTS 3
+http://172.16.215.142/hls/5070.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/select2.jpg", SPORTS 4
+http://172.16.215.142/hls/5071.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/select2.jpg", SPORTS 5
+http://172.16.215.142/hls/5068.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/select2.jpg", SPORTS 6
+http://172.16.215.142/hls/5069.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/select2.jpg", SPORTS 7
+http://172.16.215.142/hls/5067.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/select2.jpg", SPORTS 8
+http://172.16.215.142/hls/5072.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/select2.jpg", SPORTS 9
+http://172.16.215.142/hls/5076.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/select2.jpg", SPORTS 10
+http://172.16.215.142/hls/4228.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/select2.jpg", SPORTS 11
+http://172.16.215.142/hls/5077.m3u8
 
 
-#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/sony-1.png", SONY SP 1*
-http://chanel.dekhaott.com/sonyten1/index.fmp4.m3u8
-#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/sony-2.png", SONY SP 2*
-http://chanel.dekhaott.com/sonyten2/index.fmp4.m3u8
-#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/sony-3.png", SONY SP 3*
-http://chanel.dekhaott.com/sonyten3/index.fmp4.m3u8
-#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/sony-5.png", SONY SP 5*
-http://chanel.dekhaott.com/SONY_SportsTen5_HD/index.fmp4.m3u8
-#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/stersports1hd.jpg", STAR SP 1*
-http://chanel.dekhaott.com/stersports1hd/index.fmp4.m3u8
-#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/ster-sport-2hd.png", STAR SP 2*
-http://chanel.dekhaott.com/starsports2/index.fmp4.m3u8
-#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/star_sports3.jpg", STAR SP 3*
-http://172.16.215.142/hls/starsports3.m3u8
-#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/Star_Sports_Select_1_HD.jpg", STAR SP SELECT 1*
-http://chanel.dekhaott.com/Star_Sport_Select1HD/index.fmp4.m3u8
-#EXTINF:-1 group-title="DEKHA OTT" tvg-logo="http://172.16.215.142/img/select2.jpg", STAR SP SELECT 2*
-http://chanel.dekhaott.com/select2/index.fmp4.m3u8
 
 
-#EXTINF:-1 group-title="JAGO" tvg-logo="DEEPTO TV", DEEPTO TV 
-https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 group-title="JAGO" tvg-logo="BOISHAKHI", BOISHAKHI 
-https://bd.jagobd.com:444/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="JAGO" tvg-logo="ATN BANGLA", ATN BANGLA 
-https://bd.jagobd.com:444/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/indepen.png", INDEPENDENT
-http://172.16.215.142/hls/indepen.m3u8
+http://172.16.215.142/hls/4008.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/71.jpg", EKATTOR
-http://172.16.215.142/hls/71.m3u8
+http://172.16.215.142/hls/4017.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/channeli.jpg", CHANNEL I
-http://172.16.215.142/hls/channeli.m3u8
+http://172.16.215.142/hls/4016.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/somoytv.jpg", SOMOY
-http://172.16.215.142/hls/somoy.m3u8
-#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/maasranga.jpg", MAASRANGA
-http://172.16.215.142/hls/masranga.m3u8
+http://172.16.215.142/hls/4010.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/maasranga.jpg", NAGORIK
+http://172.16.215.142/hls/5007.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/maasranga.jpg", GAAN BANGLA
+http://172.16.215.142/hls/4018.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/maasranga.jpg", JAMUNA TV
+http://172.16.215.142/hls/4005.m3u8
+
+
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/maasranga.jpg", NAGORIK
+http://172.16.215.142/hls/5007.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/maasranga.jpg", NAGORIK
+http://172.16.215.142/hls/5007.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/maasranga.jpg", NAGORIK
+http://172.16.215.142/hls/5007.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/madani.jpg", MADANI BANGLA
-http://172.16.215.142/hls/madani.m3u8
+http://172.16.215.142/hls/4029.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/quraantv.jpg", QURAN TV
-http://172.16.215.142/hls/qurqntv.m3u8
+http://172.16.215.142/hls/4112.m3u8
+
+
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/travelxphd.jpg", TRAVEL XP
 http://172.16.215.142/hls/travelxp.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/bbcearth.jpg", BBC EARTH 
@@ -316,5 +341,3 @@ http://103.141.2.37:25461/live/web/web/616.m3u8
 
 #EXTINF:-1 tvg-logo="http://10.11.12.13/img/travelxphd.jpg" group-title="Server-2", Travelxp HD
 http://103.141.2.37:25461/live/web/web/593.m3u8
-
-
