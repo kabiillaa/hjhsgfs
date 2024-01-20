@@ -71,6 +71,8 @@ http://172.16.215.142/hls/5041.m3u8
 http://172.16.215.142/hls/4122.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="", MASTII
 http://172.16.215.142/hls/4124.m3u8
+#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/sangeet.png", SANGEET BANGLA
+http://172.16.215.142/hls/4120.m3u8
 
 
 #EXTINF:-1 group-title="Server-1" tvg-logo="", COLORS BANGLA
@@ -89,8 +91,6 @@ http://172.16.215.142/hls/5054.m3u8
 http://172.16.215.142/hls/5033.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/Zee_Bangla_Cinema.jpg", ZEE BANGLA CINEMA
 http://172.16.215.142/hls/5050.m3u8
-#EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/sangeet.png", SANGEET BANGLA
-http://172.16.215.142/hls/4120.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="http://172.16.215.142/img/enterr10.jpeg", ENTERR 10
 http://172.16.215.142/hls/4036.m3u8
 #EXTINF:-1 group-title="Server-1" tvg-logo="", STAR BANGLA
